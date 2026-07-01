@@ -39,12 +39,3 @@ The machine learning pipeline is configured using parameters fine-tuned in the d
 * **Data Split:** 90% Training, 10% Testing
 
 ---
-
-## 💻 Local Installation & Setup
-
-Follow these steps to run the application on your local machine:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/raisin-classification-streamlit.git](https://github.com/your-username/raisin-classification-streamlit.git)
-cd raisin-classification-streamlit
